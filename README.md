@@ -6,7 +6,7 @@ Mock data generator for swagger api
 ## Install
 
 ```
-npm install swagmock
+npm install /path of this file
 ```
 
 ## Usage
